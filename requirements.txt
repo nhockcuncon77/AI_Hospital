@@ -1,0 +1,11 @@
+# Voice bot for Pretty Good AI challenge
+flask>=3.0.0
+flask-sockets>=0.2.1
+gevent>=23.9.0
+gevent-websocket>=0.10.1
+twilio>=9.0.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+pydub>=0.25.1
+numpy>=1.24.0
+ngrok>=1.0.0
