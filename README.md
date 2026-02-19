@@ -1,4 +1,4 @@
-# Pretty Good AI — Voice Bot (Engineering Challenge)
+# Pretty Good AI — Voice Bot
 
 Automated voice bot that calls the test line **805-439-8008**, simulates patient scenarios (scheduling, refills, questions), records and transcribes conversations, and helps identify bugs or quality issues in the AI agent.
 
